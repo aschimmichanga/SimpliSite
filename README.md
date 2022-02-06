@@ -2,7 +2,7 @@
 A minimal, senior citizen-friendly web app to help ease of access to tech (eHacks 2022)
 
 # Resources
-## [Business - Pitch](https://docs.google.com/presentation/d/1qv3I0Cni8GdkuibNeKINSah0qWAdg9kU/edit#slide=id.g10e07789549_4_5)
+## [Business - Pitch Presentation](https://docs.google.com/presentation/d/1qv3I0Cni8GdkuibNeKINSah0qWAdg9kU/edit#slide=id.g10e07789549_4_5)
 
 ## [Figma - Design Plans](https://figma.com/file/TTUYe2tfe0tKH47kSCKNAm/eHacks?node-id=0%3A1)
 
