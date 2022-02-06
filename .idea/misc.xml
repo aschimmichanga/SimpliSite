@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ashna/AndroidStudioProjects/SimpliSite/app/src/main/res/drawable/round_shape_btn.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/ashna/AndroidStudioProjects/SimpliSite/app/src/main/res/drawable/round_shape_btn2.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/ashna/AndroidStudioProjects/SimpliSite/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/ashna/AndroidStudioProjects/SimpliSite/app/src/main/res/layout-w936dp/activity_login.xml" value="0.31742243436754175" />
+        <entry key="..\:/Users/ashna/AndroidStudioProjects/SimpliSite/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/ashna/AndroidStudioProjects/SimpliSite/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
       </map>
     </option>
