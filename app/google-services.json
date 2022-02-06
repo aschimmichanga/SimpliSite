@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061048981901",
+    "project_id": "simplisite-7ea6b",
+    "storage_bucket": "simplisite-7ea6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061048981901:android:0e31740dad58b2009085c4",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.simplisite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061048981901-353e5p70pqhr5vnnvfq4ufkvtts8n3kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwuO8HQO8n9jzIfw2Ts3PtuiDG4J9UyO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061048981901-353e5p70pqhr5vnnvfq4ufkvtts8n3kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
