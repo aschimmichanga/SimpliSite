@@ -1,5 +1,5 @@
 # SimpliSite
-A minimal, senior citizen-friendly Android app to help ease of access to tech (eHacks 2022 finalist)
+A minimal, senior citizen-friendly Android app to help ease of access to tech (eHacks 2022 4th place out of 110~ participants and 40 teams)
 
 # Resources
 ## [Business - Pitch Presentation](https://docs.google.com/presentation/d/1qv3I0Cni8GdkuibNeKINSah0qWAdg9kU/edit#slide=id.g10e07789549_4_5)
